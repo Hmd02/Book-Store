@@ -14,7 +14,8 @@ Welcome to HR Book Store, a MERN stack project designed to provide a seamless bo
 
 ## Technologies Used
 
-HR Book Store is built using the MERN stack, which includes the following technologies:
+
+Book Store is built using the MERN stack, which includes the following technologies:
 
 - MongoDB: A flexible and scalable NoSQL database used to store book and user information.
 - Express.js: A web application framework for Node.js, used to build the backend server and handle API requests.
